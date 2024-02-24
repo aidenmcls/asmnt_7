@@ -1,0 +1,19 @@
+Features	MSSQL	Oracle	SQLite	MYSQL	PostgreSQL	MS Access	LibreOffice
+Simple(4)	2*4 = 8	2*4 = 8	5*4 = 20	4*4 = 16	3*4 = 12	4*4 = 16	5*4 = 20
+Speed(3)	3*3 = 9	2*3 = 6	5*3 = 15	5*3 = 15	4*3 = 12	2*3 = 6	2*3 = 6
+Cross-Platform(4)	2*4 = 8	2*4 = 8	5*4 = 20	4*4 = 16	4*4 = 16	3*4 = 12	3*4 = 12
+Single User(2)	1*2 = 2	1*2 = 2	5*2 = 10	2*2 = 4	2*2 = 4	4*2 = 8	3*2 = 6
+USB Backup(3)	2*3 = 6	2*3 = 6	5*3 = 15	3*3 = 9	3*3 = 9	4*3 = 12	3*3 = 9
+Low Cost(5)	2*5 =10	1*5 = 5	5*5 = 25	4*5 = 20	4*5 = 20	3*5 = 15	5*5 = 25
+							
+Features	MSSQL	Oracle	SQLite	MYSQL	PostgreSQL	MS Access	LibreOffice
+Simple(4)	8	8	20	16	12	16	20
+Speed(3)	9	6	15	15	12	6	6
+Cross-Platform(4)	8	8	20	16	16	12	12
+Single User(2)	2	2	10	4	4	8	6
+USB Backup(3)	6	6	15	9	9	12	9
+Low Cost(5)	10	5	25	20	20	15	25
+Total =	43	35	105	80	73	69	78
+							
+"According to our table, SQLite wins. So SQLite should work best for our application."							
+							
